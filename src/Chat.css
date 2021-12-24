@@ -4,6 +4,8 @@
   flex: 0.75;
   background-color: #363a3f;
   height: 100vh;
+    /* mobile viewport bug fix */
+    min-height: -webkit-fill-available;
 }
 
 .chat__messages {

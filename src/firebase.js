@@ -2,7 +2,8 @@ import firebase from 'firebase';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAWyQgTlNTnxZfmBSoFO4HxZNs40ZDUa0g",
-  authDomain: "discord-clone-420ae.firebaseapp.com",
+  // authDomain: "discord-clone-420ae.firebaseapp.com",
+  authDomain: 'https://nifty-torvalds-c2863d.netlify.app/',
   projectId: "discord-clone-420ae",
   storageBucket: "discord-clone-420ae.appspot.com",
   messagingSenderId: "986019509050",
